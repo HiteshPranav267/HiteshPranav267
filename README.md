@@ -22,7 +22,7 @@ ECE undergrad at **PES University, Bengaluru**, working on **RTL design and func
 ### 📫 Reach me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hitesh--engineering-222?style=flat-square)](https://hiteshpranav267.github.io/hitesh-engineering/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-pranav-reddy-379371264/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-pranav-reddy/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hiteshpranavreddy.d@gmail.com)
 
 <!-- psst — there are a few secrets hidden on my website 👀 -->
